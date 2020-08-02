@@ -1,8 +1,9 @@
 body{
     /*adding a background image*/
-    background-image: url("https://cdn.hipwallpaper.com/i/83/58/4FZ5ac.jpg");
-    background-size: cover;
-    color: rgb(57, 114, 170);
+    /* background-image: url("https://images.pexels.com/photos/62693/pexels-photo-62693.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260");
+    background-size: cover; */
+    background-color: rgb(25, 27, 28);
+    color: rgb(226, 223, 219);
     font-size: 1vw;
 }
 
