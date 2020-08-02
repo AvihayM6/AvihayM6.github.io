@@ -1,0 +1,435 @@
+[UTF8/MIXED]
+[Default Sites Commercial Sites Adobe]
+created=41429.3620066898
+IP=ftp.adobe.com
+anonymous=1
+port=21
+path=/pub/adobe/
+notes=Adobe related files
+ID=8CAA044C
+
+[Default Sites Commercial Sites Alchemy Mindworks]
+created=41429.3620067477
+IP=mindworkshop.comftp.mindworkshop.org
+anonymous=1
+port=21
+path=/pub/
+notes=Animate your web
+ID=DB4EF579
+
+[Default Sites Commercial Sites BreakPoint Software]
+created=41429.3620068056
+IP=ftp.bpsoft.com
+anonymous=1
+port=21
+path=/pub/
+notes=Hex Workshop
+ID=74BFCAAE
+
+[Default Sites Commercial Sites Corel]
+created=41429.3620068403
+IP=ftp.corel.com
+anonymous=1
+port=21
+path=/pub/
+ID=DCB14F75
+
+[Default Sites Commercial Sites Intel]
+created=41429.362006875
+IP=ftp.intel.com
+anonymous=1
+port=21
+notes=Intel files and support.
+ID=B1532BC2
+
+[Default Sites Commercial Sites Jasc Software]
+created=41429.3620068981
+IP=ftp.jasc.com
+anonymous=1
+port=21
+ID=F987227B
+
+[Default Sites Commercial Sites Kaspersky Labs]
+created=41429.3620069329
+IP=ftp.kaspersky.com
+anonymous=1
+port=21
+notes=Kapersky, formerly known as AVP Anti-Virus
+ID=D4AD8F97
+
+[Default Sites Commercial Sites McAfee]
+created=41429.362006956
+IP=ftp.mcafee.com
+anonymous=1
+port=21
+notes=McAfee, a popular Anti-Virus application
+ID=020AB88C
+
+[Default Sites Commercial Sites Netscape]
+created=41429.3620069907
+IP=ftp.netscape.com
+anonymous=1
+port=21
+notes=Files relating to the Netscape browser
+ID=C3D699B6
+
+[Default Sites Commercial Sites Novell]
+created=41429.3620070255
+IP=ftp.novell.com
+anonymous=1
+port=21
+ID=ECAF4AF3
+
+[Default Sites Commercial Sites Pegasus]
+created=41429.3620070486
+IP=risc.ua.edu
+anonymous=1
+port=21
+path=/pub/
+ID=9BABAE97
+
+[Default Sites Commercial Sites Qualcomm]
+created=41429.3620070833
+IP=ftp.qualcomm.com
+anonymous=1
+port=21
+notes=Makers of Eudora email client
+ID=28D223B4
+
+[Default Sites Commercial Sites Rar Labs]
+created=41429.3620071065
+IP=ftp.rarlabs.com
+anonymous=1
+port=21
+path=/rar/
+notes=Where WinRAR was born
+ID=30349C66
+
+[Default Sites Commercial Sites Symantec]
+created=41429.3620071412
+IP=ftp.symantec.com
+anonymous=1
+port=21
+notes=Makers of Norton Anti-Virus
+ID=4675EA86
+
+[Default Sites Commercial Sites WinZip]
+created=41429.3620071759
+IP=ftp.winzip.com
+anonymous=1
+port=21
+ID=3DF12D08
+
+[Default Sites Game Sites Electronic Arts]
+created=41429.3620071991
+IP=ftp.ea.com
+anonymous=1
+port=21
+path=/pub/
+ID=92B17EF3
+
+[Default Sites Game Sites ID Software]
+created=41429.3620072338
+IP=ftp.idsoftware.com
+anonymous=1
+port=21
+path=/idstuff/
+ID=FD7A6240
+
+[Default Sites Game Sites LucasArts]
+created=41429.3620072569
+IP=ftp.lucasarts.com
+anonymous=1
+port=21
+notes=Demos, Patches and Videos for LucasArts Games
+ID=1B44333F
+
+[Default Sites Government Sites Centers for Disease Control and Prevention (CDC)]
+created=41429.3620072917
+IP=ftp.cdc.gov
+user=anonymous
+port=21
+path=/
+ID=DCB3C9BC
+
+[Default Sites Government Sites Federal Communications Commission (FCC)]
+created=41429.3620073148
+IP=ftp.fcc.gov
+anonymous=1
+port=21
+path=/pub/
+ID=31868E56
+
+[Default Sites Government Sites Fermi National Accelerator Laboratory]
+created=41429.3620073495
+IP=ftp.fnal.gov
+anonymous=1
+port=21
+path=/pub/
+notes=Fermilab, a national science laboratory of the Department of Energy's Office of Science and the home of the Tevatron, the world's most powerful particle accelerator.
+ID=57856450
+
+[Default Sites Government Sites Internal Revenue Service (IRS)]
+created=41429.3620073843
+IP=ftp.irs.gov
+anonymous=1
+port=21
+path=/pub/
+ID=4EB4D1A6
+
+[Default Sites Government Sites National Center for Biotechnology Information (NCBI)]
+created=41429.3620074074
+IP=ftp.ncbi.nih.gov
+user=anonymous
+port=21
+ID=B21B8AB1
+
+[Default Sites Government Sites National Space Science Data Center of NASA (Planetary Images)]
+created=41429.3620074421
+IP=nssdcftp.gsfc.nasa.gov
+anonymous=1
+port=21
+path=/
+notes=Planetary imagery and other spacy stuff!National Space Science Data Center FTP ofNASA Goddard Space Flight CenterGreenbelt, MD 20771, USAhttp://nssdc.gsfc.nasa.gov/
+ID=A71DDC3B
+
+[Default Sites Government Sites Securities and Exchange Commission (SEC)]
+created=41429.3620074653
+IP=ftp.sec.gov
+anonymous=1
+port=21
+path=/pub/
+ID=F5522B7C
+
+[Default Sites Miscellaneous Sites Optimum Online Speed Test]
+created=41429.3620075
+IP=ftp1.optonline.net
+anonymous=1
+port=21
+path=/pub/
+notes=Test your internet connection speed.Very fast site with sample downloads.
+ID=43DAC9E0
+
+[Default Sites Miscellaneous Sites RSA Data Security]
+created=41429.3620075347
+IP=ftp.rsa.com
+anonymous=1
+port=21
+ID=C0AA7C8B
+
+[Default Sites Miscellaneous Sites The Usenet Oracle (Funny!)]
+created=41429.3620075579
+IP=ftp.cs.indiana.edu
+anonymous=1
+port=21
+path=/pub/oracle/
+notes=The Usenet Oracle answers all your questions!(Now known as The Internet Oracle)http://www.cs.indiana.edu/~oracle/
+ID=8E3FACAA
+
+[Default Sites Miscellaneous Sites Twenty-Six Hundred]
+created=41429.3620075926
+IP=ftp.2600.com
+anonymous=1
+port=21
+path=/
+notes=beep.
+ID=9A3570C5
+
+[Default Sites Operating Systems BSD Distributions DragonFly BSD]
+created=41429.3620076273
+IP=ftp.dragonflybsd.org
+anonymous=1
+port=21
+notes=http://www.dragonflybsd.org/
+ID=7FFB1569
+
+[Default Sites Operating Systems BSD Distributions FreeBSD]
+created=41429.362007662
+IP=ftp.freebsd.org
+anonymous=1
+port=21
+path=/pub/
+notes=http://www.freebsd.org/ 
+ID=0D5D4F88
+
+[Default Sites Operating Systems BSD Distributions NetBSD]
+created=41429.3620076968
+IP=ftp.netbsd.org
+user=anonymous
+port=21
+path=/pub/
+ID=902291A4
+
+[Default Sites Operating Systems BSD Distributions OpenBSD]
+created=41429.3620077199
+IP=ftp.openbsd.org
+anonymous=1
+port=21
+localpath=/pub/
+ID=2AFB9C9D
+
+[Default Sites Operating Systems Linux Distributions Damn Small Linux]
+created=41429.3620077546
+IP=sunsite.unc.edu
+anonymous=1
+port=21
+path=/pub/linux/distributions/damnsmall/
+notes=http://www.damnsmalllinux.org/
+ID=3A83DD07
+
+[Default Sites Operating Systems Linux Distributions Debian]
+created=41429.3620077894
+IP=ftp.us.debian.org
+anonymous=1
+port=21
+path=/debian/
+notes=http://www.debian.org/
+ID=662290CC
+
+[Default Sites Operating Systems Linux Distributions Gentoo]
+created=41429.3620078241
+IP=sunsite.unc.edu
+anonymous=1
+port=21
+path=/pub/linux/distributions/gentoo/
+notes=http://www.gentoo.org/
+ID=EEE07AEC
+
+[Default Sites Operating Systems Linux Distributions Knoppix]
+created=41429.3620078588
+IP=sunsite.unc.edu
+anonymous=1
+port=21
+path=/pub/linux/distributions/knoppix/
+notes=http://www.knopper.net/knoppix/index-en.html
+ID=447C0385
+
+[Default Sites Operating Systems Linux Distributions Lycoris]
+created=41429.3620078935
+IP=ibiblio.org
+anonymous=1
+port=21
+path=/pub/linux/distributions/lycoris
+notes=http://www.lycoris.com/
+ID=5EA293A9
+
+[Default Sites Operating Systems Linux Distributions Red Hat]
+created=41429.3620079282
+IP=ftp.redhat.com
+anonymous=1
+port=21
+path=/pub/
+options=2030333000033001103000010003333000001002000133003
+notes=http://www.redhat.com/
+ID=A38BD761
+
+[Default Sites Operating Systems Linux Distributions Slackware]
+created=41429.362007963
+IP=ftp.slackware.com
+anonymous=1
+port=21
+path=/pub/
+notes=http://www.slackware.com/
+ID=5A56946F
+
+[Default Sites Operating Systems Linux Distributions SuSE]
+created=41429.3620079861
+IP=ftp.suse.com
+anonymous=1
+port=21
+path=/pub/
+notes=http://www.suse.com/
+ID=B534F4E4
+
+[Default Sites Operating Systems Linux Distributions Ubuntu]
+created=41429.3620080208
+IP=ftp.ubuntu.com/
+anonymous=1
+port=21
+path=/ubuntu/
+notes=http://www.ubuntu.com/
+ID=45E9725E
+
+[Default Sites Operating Systems Linux Distributions Yellow Dog Linux]
+created=41429.3620080556
+IP=ftp.yellowdoglinux.com
+user=anonymous
+port=21
+path=/
+ID=FDC5FB13
+
+[Default Sites Software Archives NCSA]
+created=41429.3620080903
+IP=ftp.ncsa.uiuc.edu
+anonymous=1
+port=21
+notes=The National Center for Supercomputer Applications
+ID=6B59BF87
+
+[Default Sites Software Archives Sunet Sweden]
+created=41429.362008125
+IP=ftp.sunet.se
+anonymous=1
+port=21
+notes=Software and image archive
+ID=1740435D
+
+[Default Sites Software Archives SunSite]
+created=41429.3620081597
+IP=sunsite.unc.edu
+anonymous=1
+port=21
+path=/pub/
+notes=Lots of Unix/Linux stuff!
+ID=64F68ED7
+
+[Default Sites Web Browsers Amaya]
+created=41429.3620081944
+IP=ftp.w3.org
+anonymous=1
+port=21
+path=/pub/amaya/
+notes=Amaya is the W3C's combination Browser / Editor.  Give it a try!
+ID=D700A291
+
+[Default Sites Web Browsers Firefox]
+created=41429.3620082292
+IP=ftp.mozilla.org
+anonymous=1
+port=21
+path=/pub/mozilla.org/firefox/
+notes=Mozilla Firefox :: Take Back The Web!Formerly known as FirebirdFormerly known as Pheonix
+ID=73669CA4
+
+[Default Sites Web Browsers Lynx]
+created=41429.3620082639
+IP=lynx.isc.orgftp.us.browser.org
+anonymous=1
+port=21
+path=/
+notes=meow.
+ID=EDED8EE3
+
+[Default Sites Web Browsers Mosaic]
+created=41429.3620082986
+IP=ftp.ncsa.uiuc.edu
+anonymous=1
+port=21
+path=/Mosaic/
+ID=028B89A4
+
+[Default Sites Web Browsers Netscape]
+created=41429.3620083333
+IP=ftp.netscape.com
+user=anonymous
+port=21
+path=/pub/
+ID=B3144A2F
+
+[Default Sites Web Browsers Opera]
+created=41429.3620083565
+IP=ftp.opera.com
+user=anonymous
+port=21
+path=/pub/opera/
+ID=6B76B7F9
