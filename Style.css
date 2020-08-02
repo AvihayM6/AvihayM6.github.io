@@ -1,11 +1,13 @@
 body{
     /*adding a background image*/
-    /* background-image: url("https://images.pexels.com/photos/62693/pexels-photo-62693.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260");
-    background-size: cover; */
-    background-color: rgb(25, 27, 28);
+
+    background-color: rgb(33, 33, 33);
     color: rgb(226, 223, 219);
     font-size: 1vw;
+    
 }
+
+
 
 div{
     border: 3px solid rgb(116, 144, 172);
