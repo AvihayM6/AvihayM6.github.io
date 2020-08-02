@@ -8,9 +8,9 @@ body{
 }
 
 
-
 div{
-    border: 3px solid rgb(116, 144, 172);
+    border: 2px rgb(116, 144, 172);
+    border-style: hidden;
 }
 .center {
     /*Take the photo to the center*/
@@ -19,6 +19,7 @@ div{
     margin-right: auto;
     width: 20%;
   }
+
 h1{
     color: rgb(23, 86, 150);
     text-align: center; /*throw the h1 on the center*/
