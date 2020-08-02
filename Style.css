@@ -6,7 +6,7 @@ body{
 }
 
 div{
-    border: 3px solid lightslategrey;
+    border: 3px solid rgb(116, 144, 172);
 }
 .center {
     /*Take the photo to the center*/
@@ -16,7 +16,7 @@ div{
     width: 20%;
   }
 h1{
-    color: cornflowerblue;
+    color: rgb(23, 86, 150);
     text-align: center; /*throw the h1 on the center*/
 }
 li{
