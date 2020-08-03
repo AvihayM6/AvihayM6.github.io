@@ -1,24 +1,26 @@
+
 body{
     /*adding a background image*/
 
     background-color: rgb(33, 33, 33);
-    color: rgb(226, 223, 219);
+    color: rgb(190, 187, 183);
     font-size: 1vw;
     
 }
 
 
-div{
+#knowledge{
     border: 2px rgb(116, 144, 172);
-    border-style: hidden;
+    border-style: dashed; /* ?????????????????????????????????? */
 }
+
 .center {
     /*Take the photo to the center*/
     display: block;
     margin-left: auto;
     margin-right: auto;
     text-align: center;
-  }
+}
 
 .footer{
     text-align: center;
@@ -26,7 +28,21 @@ div{
 
 h1{
     color: rgb(23, 86, 150);
+    line-height: 5%;
 }
+
+h2{
+    color: rgb(23, 86, 150);
+}
+
 li{
     list-style: decimal;
 }
+
+#copyrights{
+
+    font-size: 15px;
+}
+
+
+
