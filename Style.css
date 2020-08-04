@@ -1,48 +1,51 @@
+body {
+  /*adding a background image*/
 
-body{
-    /*adding a background image*/
-
-    background-color: rgb(33, 33, 33);
-    color: rgb(190, 187, 183);
-    font-size: 1vw;
-    
+  background-color: rgb(33, 33, 33);
+  color: rgb(190, 179, 165);
+  font-size: 1vw;
 }
 
-
-#knowledge{
-    border: 2px rgb(116, 144, 172);
-    border-style: dashed; /* ?????????????????????????????????? */
+.allSite {
+  max-width: 1500px;
+  margin: auto;
 }
 
-.center {
-    /*Take the photo to the center*/
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    text-align: center;
+section {
+  border: 2px rgb(116, 144, 172);
+  border-style: dashed;
+
+  margin-right: 5px;
+}
+article {
+  /* להמשיך לנסות לשים את התמונה לצד הטקסט מצד ימין */
 }
 
-.footer{
-    text-align: center;
+hgroup {
+  /*Take the photo to the center*/
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  border-bottom: solid 2px;
+  margin-bottom: 0%;
+  margin: 0;
 }
 
-h1{
-    color: rgb(23, 86, 150);
-    line-height: 5%;
+footer {
+  text-align: center;
+  font-size: 15px;
 }
 
-h2{
-    color: rgb(23, 86, 150);
+h1 {
+  color: rgb(23, 86, 150);
+  line-height: 5%;
 }
 
-li{
-    list-style: decimal;
+h2 {
+  color: rgb(23, 86, 150);
 }
 
-#copyrights{
-
-    font-size: 15px;
+li {
+  list-style: decimal;
 }
-
-
-
