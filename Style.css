@@ -1,6 +1,5 @@
 body {
   /*adding a background image*/
-
   background-color: rgb(33, 33, 33);
   color: rgb(190, 179, 165);
   font-size: 1vw;
@@ -11,14 +10,14 @@ body {
   margin: auto;
 }
 
-section {
-  border: 2px rgb(116, 144, 172);
-  border-style: dashed;
-
+aside {
   margin-right: 5px;
+  padding-left: 730px;
+  resize: both;
 }
-article {
-  /* להמשיך לנסות לשים את התמונה לצד הטקסט מצד ימין */
+.contant {
+  float: left;
+  padding-top: 70px;
 }
 
 hgroup {
@@ -30,22 +29,42 @@ hgroup {
   border-bottom: solid 2px;
   margin-bottom: 0%;
   margin: 0;
+  margin-bottom: 50px;
+  color: rgb(23, 86, 150);
+  border-color: lavenderblush;
+}
+
+hgroup > h1 {
+  font-size: 60px;
+}
+
+p + h2 {
+  font-size: 50px;
 }
 
 footer {
+  padding-top: 50px;
   text-align: center;
   font-size: 15px;
 }
 
-h1 {
-  color: rgb(23, 86, 150);
-  line-height: 5%;
+/* width */
+::-webkit-scrollbar {
+  width: 13px;
 }
 
-h2 {
-  color: rgb(23, 86, 150);
+/* Track */
+::-webkit-scrollbar-track {
+  background: rgb(190, 179, 165);
 }
 
-li {
-  list-style: decimal;
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background: #888;
+  border-radius: 10px;
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+  background: #555;
 }
