@@ -12,12 +12,17 @@ body {
 
 aside {
   margin-right: 5px;
-  padding-left: 730px;
+  float: right;
   resize: both;
+  width: 51%;
 }
-.contant {
+section{
   float: left;
+  width: 48%;
   padding-top: 70px;
+  height: 325px;
+  border: solid blue;
+
 }
 
 hgroup {
@@ -34,18 +39,20 @@ hgroup {
   border-color: lavenderblush;
 }
 
-hgroup > h1 {
+header hgroup h1 {
   font-size: 60px;
 }
 
-p + h2 {
+.contant artical h2 {
   font-size: 50px;
 }
 
 footer {
-  padding-top: 50px;
+  padding: 50px;
   text-align: center;
   font-size: 15px;
+  margin-top: 30%;
+  
 }
 
 /* width */
@@ -66,5 +73,9 @@ footer {
 
 /* Handle on hover */
 ::-webkit-scrollbar-thumb:hover {
-  background: #555;
+  background: rgb(94, 114, 131);
+}
+
+footer toTop{
+  padding-right: 100%;
 }
