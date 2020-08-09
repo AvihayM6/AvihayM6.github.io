@@ -48,11 +48,13 @@ header hgroup {
   color: rgb(190, 179, 165);
   font-size: 1vw;
   margin-bottom: 10px;
+  font-family: 'Open Sans', sans-serif;
   
 }
 
 header hgroup h1 {
   font-size: 70px;
+  
 }
 
 header hgroup h2 {
@@ -79,7 +81,7 @@ aside {
   width: 51%;
   margin-bottom: 10px;
   background-color: rgb(33, 33, 33);
-  color: rgb(190, 179, 165);.
+  color: rgb(190, 179, 165);
   
 }
 
@@ -87,13 +89,13 @@ aside {
 section{
   float: left; 
   width: 48%;
-  padding-top: 70px;
-  height: 325px;
+  height: 396px;
   margin-bottom: 10px;
   background-color: rgb(33, 33, 33);
   color: rgb(190, 179, 165);
+  font-size: 135%;
   
-
+  
 }
 
 
@@ -103,7 +105,7 @@ section{
   margin-bottom: 0%;
   text-decoration: underline;
   text-decoration-color: rgb(171, 171, 204);
-  /* text-decoration-thickness: 2px; */
+  font-family: 'Open Sans', sans-serif;
 }
 
 
