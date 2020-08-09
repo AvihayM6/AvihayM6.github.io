@@ -3,7 +3,7 @@ body {
   background-image: url("https://cdn.hipwallpaper.com/i/8/33/nmPgly.jpg");
   opacity: 88%;
   background-position: auto;
-
+  padding: 5px;
 
 }
 
@@ -49,11 +49,14 @@ header hgroup {
   font-size: 1vw;
   margin-bottom: 10px;
   font-family: 'Open Sans', sans-serif;
+  border-radius: 20px;
+
   
 }
 
 header hgroup h1 {
   font-size: 70px;
+  letter-spacing: 30px;
   
 }
 
@@ -70,6 +73,8 @@ nav{
   background-color: rgb(33, 33, 33);
   color: rgb(190, 179, 165);
   display: flex;
+  border-radius: 20px;
+
 }
 
 cv{
@@ -94,6 +99,8 @@ aside {
   display: flex;
   flex-wrap: warp;
   justify-content: center;
+  border-radius: 20px;
+
   
 }
 
@@ -106,7 +113,7 @@ section{
   color: rgb(190, 179, 165);
   font-size: 135%;
   display: flex;
-  
+  border-radius: 20px;  
   
 }
 
@@ -139,6 +146,8 @@ footer {
   margin-bottom: 10px;
   background-color: rgb(33, 33, 33);
   color: rgb(190, 179, 165);
+  border-radius: 20px;
+
 }
 div footer toTop{
   float: right;
