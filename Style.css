@@ -1,75 +1,17 @@
 body {
   /*adding a background image*/
-  background-color: rgb(33, 33, 33);
-  color: rgb(190, 179, 165);
-  font-size: 1vw;
+  background-image: url("https://cdn.hipwallpaper.com/i/8/33/nmPgly.jpg");
+  opacity: 88%;
+  background-position: auto;
+
+
 }
 
 /* responsible to all site frame*/
 .allSite {
-  max-width: 1500px;
+  max-width: 1800px;
   margin: auto;
-  border: blue solid 2px;
-}
 
-/* marge the h1 and h2 to one group*/
-header hgroup {
-  /*Take the photo to the center*/
-  text-align: center;
-  color: rgb(29, 67, 105);
-  border-color: lavenderblush;
-  line-height: 10px;
-}
-
-header hgroup h1 {
-  font-size: 70px;
-}
-
-header hgroup h2 {
-  text-decoration: underline;
-  text-decoration-color: rgb(171, 171, 204);
-  font-size: 35px;
-
-}
-
-nav{
-  padding: 10px;
-  border: solid blue;
-}
-
-aside {
-  margin-right: 5px;
-  float: right;
-  resize: both;
-  width: 51%;
-}
-
-/*  */
-section{
-  float: left; 
-  width: 48%;
-  padding-top: 70px;
-  height: 325px;
-  border: solid blue;
-
-}
-
-
-
-.contant artical h2 {
-  font-size: 50px;
-  margin-bottom: 0%;
-  border-bottom: solid 2px;
-
-}
-
-footer {
-  padding: 50px;
-  text-align: center;
-  font-size: 15px;
-  margin-top: 30%;
-  border: steelblue solid;
-  clear: both;
   
 }
 
@@ -94,6 +36,88 @@ footer {
   background: rgb(94, 114, 131);
 }
 
-footer toTop{
-  padding-right: 100%;
+
+
+/* marge the h1 and h2 to one group*/
+header hgroup {
+  /*Take the photo to the center*/
+  border: rgb(33, 33, 33) solid 2px;
+  line-height: 10px;
+  background-color: rgb(33, 33, 33);
+  text-align: center;  
+  color: rgb(190, 179, 165);
+  font-size: 1vw;
+  margin-bottom: 10px;
+  
 }
+
+header hgroup h1 {
+  font-size: 70px;
+}
+
+header hgroup h2 {
+  text-decoration: underline;
+  text-decoration-color: rgb(171, 171, 204);
+  font-size: 35px;
+
+}
+
+nav{
+  padding: 10px;
+  margin-bottom: 10px;
+  background-color: rgb(33, 33, 33);
+  color: rgb(190, 179, 165);
+  
+
+
+}
+
+aside {
+  margin-right: 5px;
+  float: right;
+  resize: both;
+  width: 51%;
+  margin-bottom: 10px;
+  background-color: rgb(33, 33, 33);
+  color: rgb(190, 179, 165);.
+  
+}
+
+/*  */
+section{
+  float: left; 
+  width: 48%;
+  padding-top: 70px;
+  height: 325px;
+  margin-bottom: 10px;
+  background-color: rgb(33, 33, 33);
+  color: rgb(190, 179, 165);
+  
+
+}
+
+
+
+.contant artical h2 {
+  font-size: 50px;
+  margin-bottom: 0%;
+  text-decoration: underline;
+  text-decoration-color: rgb(171, 171, 204);
+  /* text-decoration-thickness: 2px; */
+}
+
+
+
+footer {
+  padding: 20px;
+  text-align: center;
+  font-size: 15px;
+  margin-top: 36%;
+  margin-bottom: 10px;
+  background-color: rgb(33, 33, 33);
+  color: rgb(190, 179, 165);
+}
+div footer toTop{
+  float: right;
+}
+
