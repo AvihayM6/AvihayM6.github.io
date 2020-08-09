@@ -70,8 +70,16 @@ nav{
   background-color: rgb(33, 33, 33);
   color: rgb(190, 179, 165);
   display: flex;
+}
 
+cv{
+  padding: 10px;
+  display: flex;
 
+}
+
+.contant{
+  padding-top: 10px;
 }
 
 aside {
@@ -89,7 +97,6 @@ aside {
   
 }
 
-/*  */
 section{
   float: left; 
   width: 48%;
