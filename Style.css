@@ -82,6 +82,10 @@ aside {
   margin-bottom: 10px;
   background-color: rgb(33, 33, 33);
   color: rgb(190, 179, 165);
+  /* did the in=mage in the center and making it float clearly */
+  display: flex;
+  flex-wrap: warp;
+  justify-content: center;
   
 }
 
@@ -106,6 +110,15 @@ section{
   text-decoration: underline;
   text-decoration-color: rgb(171, 171, 204);
   font-family: 'Open Sans', sans-serif;
+}
+
+
+div footer links img{
+  transition: all 1s;
+}
+
+div footer links img:hover{
+  transform: scale(1.5);
 }
 
 
