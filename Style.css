@@ -128,9 +128,7 @@ section{
   font-family: 'Open Sans', sans-serif;
 }
 
-.contant sss{
-  background-color: green;
- }
+
 
 
 /* Did the animation on the footer images */
@@ -170,6 +168,15 @@ div footer toTop img:hover{
 
 @media only screen and (max-width: 1100px) {
 
+  body {
+    /*adding a background image*/
+    background-image: url("https://cdn.hipwallpaper.com/i/8/33/nmPgly.jpg");
+    opacity: 88%;
+    background-position: auto;
+    padding: 5px;
+    height: 600px;
+  }
+
   header hgroup {
     /*Take the photo to the center*/
     border: rgb(33, 33, 33) solid 2px;
@@ -181,7 +188,7 @@ div footer toTop img:hover{
     margin-bottom: 10px;
     font-family: 'Open Sans', sans-serif;
     border-radius: 20px;
-    width: 590px;
+    width: 620px;
   
     
   }
@@ -221,9 +228,36 @@ div footer toTop img:hover{
   aside{
       margin-top: 0px;
       height: 250px;
+      width: 250px;
   }
 
-  footer{
-      margin-top: 50px;
+  section{
+    float: left; 
+    width: 60%;
+    height: 396px;
+    margin-bottom: 10px;
+    background-color: rgb(33, 33, 33);
+    color: rgb(190, 179, 165);
+    font-size: 90%;
+    display: flex;
+    padding-left: 10px;
+    width: 340px;
+
+    
   }
+
+  footer {
+    padding: 20px;
+    text-align: center;
+    font-size: 8px;
+    margin-top: 36%;
+    margin-bottom: 10px;
+    background-color: rgb(33, 33, 33);
+    color: rgb(190, 179, 165);
+    border-radius: 20px;
+    width: 590px;
+  
+  }
+
+
 }
