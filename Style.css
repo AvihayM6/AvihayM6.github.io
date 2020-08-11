@@ -188,7 +188,7 @@ div footer toTop img:hover{
     margin-bottom: 10px;
     font-family: 'Open Sans', sans-serif;
     border-radius: 20px;
-    width: 620px;
+    width: 590px;
   
     
   }
@@ -229,6 +229,9 @@ div footer toTop img:hover{
       margin-top: 0px;
       height: 250px;
       width: 250px;
+      position: relative;
+      left: 180px;
+      bottom: 80px;
   }
 
   section{
@@ -242,6 +245,9 @@ div footer toTop img:hover{
     display: flex;
     padding-left: 10px;
     width: 340px;
+    position: relative;
+    bottom: 137px;
+    right: 40px;
 
     
   }
@@ -256,6 +262,8 @@ div footer toTop img:hover{
     color: rgb(190, 179, 165);
     border-radius: 20px;
     width: 590px;
+    position: relative;
+    top: 500px;
   
   }
 
