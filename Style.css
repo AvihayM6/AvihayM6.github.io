@@ -170,8 +170,56 @@ div footer toTop img:hover{
 
 @media only screen and (max-width: 1100px) {
 
+  header hgroup {
+    /*Take the photo to the center*/
+    border: rgb(33, 33, 33) solid 2px;
+    line-height: 10px;
+    background-color: rgb(33, 33, 33);
+    text-align: center;  
+    color: rgb(190, 179, 165);
+    font-size: 1vw;
+    margin-bottom: 10px;
+    font-family: 'Open Sans', sans-serif;
+    border-radius: 20px;
+    width: 590px;
+  
+    
+  }
+
+
+  header hgroup h1 {
+    font-size: 30px;
+    letter-spacing: 30px;
+    font-weight: bold; 
+  }
+
+  header hgroup h2 {
+    border-bottom: solid blue;
+    display: inline-block;
+    font-size: 25px;
+  
+  }
+
+  nav{
+    padding: 10px;
+    margin-bottom: 10px;
+    background-color: rgb(33, 33, 33);
+    color: rgb(190, 179, 165);
+    display: flex;
+    border-radius: 20px;
+    width: 590px;
+  
+  }
+
+  cv{
+    padding: 10px;
+    display: flex;
+    width: 590px;
+  
+  }
+
   aside{
-      margin-top: 40px;
+      margin-top: 0px;
       height: 250px;
   }
 
