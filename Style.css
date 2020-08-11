@@ -118,17 +118,22 @@ section{
 }
 
 /* ?????????????????? */
-div.contant article section p2{
-  color:green;
+/* .contant p2{
+  padding-top: 100px;
+} */
+
+.contant p1 span{
+
 }
 
 
 
 .contant artical h2 {
   font-size: 50px;
-  margin-bottom: 0%;
-  text-decoration: underline;
-  text-decoration-color: rgb(171, 171, 204);
+  margin-top: auto 5px;
+  
+  /* text-decoration: underline;
+  text-decoration-color: rgb(171, 171, 204); */
   font-family: 'Open Sans', sans-serif;
 }
 
