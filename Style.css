@@ -86,22 +86,20 @@ cv{
 
 .contant{
   padding-top: 10px;
+  margin-left: 50px;
 }
 
 aside {
-  margin-right: 5px;
+  margin-right: 100px;
   float: right;
   resize: both;
-  width: 39%;
+  width: 29%;
   margin-bottom: 10px;
-  /* did the in=mage in the center and making it float clearly */
+  /* did the image in the center and making it float clearly */
   display: flex;
   flex-wrap: warp;
-  justify-content: center;
-  border-radius: 20px;
-
-  
 }
+
 
 section{
   float: left; 
@@ -112,38 +110,35 @@ section{
   color: rgb(190, 179, 165);
   font-size: 135%;
   display: flex;
-  border-radius: 20px; 
   padding-left: 10px; 
   
 }
 
-/* ?????????????????? */
-/* .contant p2{
-  padding-top: 100px;
-} */
 
-.contant p1 span{
 
-}
 
 
 
 .contant artical h2 {
   font-size: 50px;
   margin-top: auto 5px;
-  
-  /* text-decoration: underline;
-  text-decoration-color: rgb(171, 171, 204); */
+  border-bottom: solid blue;
+  display: inline-block;
+  margin-bottom: 10px;
   font-family: 'Open Sans', sans-serif;
 }
 
+.contant sss{
+  background-color: green;
+ }
 
 
-
+/* Did the animation on the footer images */
 div footer links img{
   transition: all 1s;
 }
 
+/* Did the animation on the footer images */
 div footer links img:hover{
   transform: scale(1.3);
 }
