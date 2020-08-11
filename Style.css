@@ -229,7 +229,7 @@ div footer toTop img:hover{
       margin-top: 0px;
       height: 250px;
       width: 250px;
-      position: absolute;
+      position: relative;
       left: 180px;
       bottom: 80px;
   }
@@ -257,13 +257,13 @@ div footer toTop img:hover{
     text-align: center;
     font-size: 8px;
     margin-top: 36%;
-    margin-bottom: 10px;
+    /* margin-bottom: 10px; */
     background-color: rgb(33, 33, 33);
     color: rgb(190, 179, 165);
     border-radius: 20px;
     width: 590px;
     position: relative;
-    top: 500px;
+    top: 480px;
   
   }
 
