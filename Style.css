@@ -229,7 +229,7 @@ div footer toTop img:hover{
       margin-top: 0px;
       height: 250px;
       width: 250px;
-      position: relative;
+      position: absolute;
       left: 180px;
       bottom: 80px;
   }
