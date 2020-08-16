@@ -1,18 +1,18 @@
 body {
   /*adding a background image*/
-  background-image: url("https://cdn.hipwallpaper.com/i/8/33/nmPgly.jpg");
-  opacity: 88%;
-  background-position: auto;
-  padding: 5px;
+  
 
 }
 
 /* responsible to all site frame*/
 .allSite {
-  max-width: 1800px;
-  margin: auto;
-
-  
+  margin: auto 0;
+  background-image: url("https://cdn.hipwallpaper.com/i/8/33/nmPgly.jpg");
+  background-size: cover;
+  opacity: 88%;
+  background-position: 100%;
+  padding: 5px;
+  width: 100%;
 }
 
 /* width */
@@ -50,6 +50,10 @@ header hgroup {
   margin-bottom: 10px;
   font-family: 'Open Sans', sans-serif;
   border-radius: 20px;
+  border: solid red 2px;
+  height: 860px;
+  opacity: 90%;
+  padding:15%;
 
   
 }
@@ -58,6 +62,7 @@ header hgroup h1 {
   font-size: 70px;
   letter-spacing: 30px;
   font-weight: bold;
+  border: solid green 2px;
   
 }
 
@@ -65,6 +70,8 @@ header hgroup h2 {
   text-decoration: underline;
   text-decoration-color: rgb(171, 171, 204);
   font-size: 35px;
+  border: solid green 2px;
+
 
 }
 
@@ -75,60 +82,79 @@ nav{
   color: rgb(190, 179, 165);
   display: flex;
   border-radius: 20px;
+  border: solid green 2px;
+  
+
 
 }
 
 cv{
   padding: 10px;
   display: flex;
+  border: solid green 2px;
 
 }
+
+
 
 .contant{
   padding-top: 10px;
-  margin-left: 50px;
+  padding-bottom: 10px;
+  border: solid purple 2px;
+  overflow: hidden;
+  
+
 }
 
+
 aside {
-  margin-right: 100px;
   float: right;
-  resize: both;
-  width: 29%;
-  margin-bottom: 10px;
   /* did the image in the center and making it float clearly */
-  display: flex;
-  flex-wrap: warp;
+/* 
+  position: relative ;
+  bottom: 50px; */
+  border: solid green 2px;
+
 }
 
 
 section{
   float: left; 
   width: 60%;
-  height: 396px;
-  margin-bottom: 10px;
+  padding-bottom: 10px;
   background-color: rgb(33, 33, 33);
   color: rgb(190, 179, 165);
   font-size: 135%;
   display: flex;
   padding-left: 10px; 
+  border: solid green 2px;
+  
+  
   
 }
 
 
 
 
-
-
-.contant artical h2 {
+.contant h2 {
   font-size: 50px;
   margin-top: auto 5px;
   border-bottom: solid blue;
   display: inline-block;
   margin-bottom: 10px;
   font-family: 'Open Sans', sans-serif;
+  border: solid red 2px;
+
 }
 
+.contant h2 img{
+  border: solid red 2px;
 
+}
+.contant h2 span{
+  border: solid green 2px;
+
+}
 
 
 /* Did the animation on the footer images */
@@ -142,20 +168,21 @@ div footer links img:hover{
 }
 
 
-
 footer {
   padding: 20px;
   text-align: center;
   font-size: 15px;
-  margin-top: 36%;
   margin-bottom: 10px;
   background-color: rgb(33, 33, 33);
   color: rgb(190, 179, 165);
   border-radius: 20px;
+  border: solid red 2px;
 
 }
 div footer toTop{
   float: right;
+  border: solid red 2px;
+
 }
 
 div footer toTop img{
@@ -189,6 +216,8 @@ div footer toTop img:hover{
     font-family: 'Open Sans', sans-serif;
     border-radius: 20px;
     width: 660px;
+    border: solid red 2px;
+
   
     
   }
@@ -198,6 +227,7 @@ div footer toTop img:hover{
     font-size: 30px;
     letter-spacing: 30px;
     font-weight: bold; 
+    border: solid red 2px;
   }
 
   header hgroup h2 {
@@ -215,6 +245,7 @@ div footer toTop img:hover{
     display: flex;
     border-radius: 20px;
     width: 660px;
+    border: solid red 2px;
   
   }
 
@@ -222,6 +253,7 @@ div footer toTop img:hover{
     padding: 10px;
     display: flex;
     width: 660px;
+    border: solid red 2px;
   
   }
 
@@ -232,6 +264,7 @@ div footer toTop img:hover{
       position: relative;
       right: 300px;
       bottom: 80px;
+      border: solid pink 2px;
   }
 
   section{
@@ -247,6 +280,7 @@ div footer toTop img:hover{
     position: relative ;
     top: 125px;
     right: 40px;
+    border: solid red 2px;
     
 
     
@@ -264,6 +298,7 @@ div footer toTop img:hover{
     width: 660px;
     position: relative;
     top: 480px;
+    border: solid red 2px;
   
   }
 
