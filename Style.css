@@ -51,9 +51,9 @@ header hgroup {
   font-family: 'Open Sans', sans-serif;
   border-radius: 20px;
   border: solid red 2px;
-  height: 820px;
+  height: 970px;
   opacity: 90%;
-  padding:15%;
+  padding:20%;
 }
 
 header hgroup h1 {
@@ -156,13 +156,12 @@ section{
 
 .contant h2 img{
   /* border: solid red 2px; */
-  /* padding-bottom: 15px; */
 }
 .contant h2 span{
   /* border: solid green 2px; */
-
+  position: relative;
+  top: 10px;
 }
-
 
 /* Did the animation on the footer images */
 div footer links img{
