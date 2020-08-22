@@ -51,7 +51,7 @@ header hgroup {
   font-family: 'Open Sans', sans-serif;
   border-radius: 20px;
   border: solid red 2px;
-  height: 970px;
+  height: 920px;
   opacity: 90%;
   padding:20%;
 }
@@ -137,11 +137,7 @@ section{
   border: solid green 2px;
   flex: 3;
   
-  
-  
 }
-
-
 
 
 .contant h2 {
@@ -155,12 +151,16 @@ section{
 }
 
 .contant h2 img{
-  /* border: solid red 2px; */
+  border: solid red 2px;
 }
 .contant h2 span{
-  /* border: solid green 2px; */
+  border: solid green 2px;
   position: relative;
   top: 10px;
+}
+
+.contant section #Knowledge{
+  padding-top: 100px;
 }
 
 /* Did the animation on the footer images */
@@ -185,6 +185,12 @@ footer {
   border: solid red 2px;
 
 }
+
+div footer copyrights{
+  position: relative;
+  left: 10px;
+}
+
 div footer toTop{
   float: right;
   border: solid red 2px;
