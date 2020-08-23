@@ -207,13 +207,14 @@ div footer toTop img:hover{
 
 @media only screen and (max-width: 1100px) {
 
-  body {
-    /*adding a background image*/
+  .allSite {
+    margin: auto 0;
     background-image: url("https://cdn.hipwallpaper.com/i/8/33/nmPgly.jpg");
+    background-size: cover;
     opacity: 88%;
-    background-position: auto;
+    background-position: 100%;
     padding: 5px;
-    height: 400px;
+    width: 670px !important;
   }
 
   header hgroup {
@@ -269,34 +270,31 @@ div footer toTop img:hover{
   
   }
 
-  aside{
-      /* margin-top: 0px; */
-      height: 250px;
-      width: 250px;
-      position: relative;
-      right: 300px;
-      bottom: 80px;
-      border: solid pink 2px;
+  .contant{
+    display: flex;
+    width: 100% !important;
   }
 
+  aside {
+    border: solid green 2px;
+    flex: 1;
+    order: 2;
+  }
+  
+  
   section{
+    /* float: left;  */
     width: 60%;
-    height: 396px;
-    margin-bottom: 10px;
     background-color: rgb(33, 33, 33);
     color: rgb(190, 179, 165);
-    font-size: 90%;
-    display: flex;
-    padding-left: 10px ;
-    width: 340px;
-    position: relative ;
-    top: 125px;
-    right: 40px;
-    border: solid red 2px;
-    
-
+    font-size: 135%;
+    /* display: flex; */
+    padding-left: 10px; 
+    border: solid green 2px;
+    flex: 2;
     
   }
+
 
   footer {
     padding: 20px;
@@ -309,7 +307,7 @@ div footer toTop img:hover{
     border-radius: 20px;
     width: 660px;
     position: relative;
-    top: 480px;
+    /* top: 100px; */
     border: solid red 2px;
   
   }
