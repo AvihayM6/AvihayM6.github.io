@@ -224,7 +224,7 @@ div footer toTop img:hover{
     margin-bottom: 10px;
     font-family: 'Open Sans', sans-serif;
     border-radius: 20px;
-    width: 660px;
+    width: 690px;
     border: solid red 2px;
 
   
@@ -233,17 +233,20 @@ div footer toTop img:hover{
 
 
   header hgroup h1 {
-    font-size: 30px;
+    font-size: 50px;
     letter-spacing: 30px;
     font-weight: bold; 
     border: solid red 2px;
+    position: relative;
+    top: 180px;
   }
 
   header hgroup h2 {
     border-bottom: solid blue;
     display: inline-block;
     font-size: 25px;
-  
+    position: relative;
+    top: 180px;
   }
 
   nav{
@@ -253,7 +256,7 @@ div footer toTop img:hover{
     color: rgb(190, 179, 165);
     display: flex;
     border-radius: 20px;
-    width: 660px;
+    width: 690px;
     border: solid red 2px;
   
   }
@@ -261,7 +264,7 @@ div footer toTop img:hover{
   cv{
     padding: 10px;
     display: flex;
-    width: 660px;
+    width: 690px;
     border: solid red 2px;
   
   }
@@ -307,7 +310,7 @@ div footer toTop img:hover{
     background-color: rgb(33, 33, 33);
     color: rgb(190, 179, 165);
     border-radius: 20px;
-    width: 660px;
+    width: 690px;
     position: relative;
     border: solid red 2px;
   
