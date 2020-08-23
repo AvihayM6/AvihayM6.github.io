@@ -153,7 +153,7 @@ section{
   top: 10px;
 }
 
-.contant section #Knowledge{
+.contant section #Skills{
   padding-top: 100px;
 }
 
@@ -291,8 +291,9 @@ div footer toTop img:hover{
     font-size: 135%;
     padding-left: 10px; 
     border: solid green 2px;
-    flex: 1;
+    flex: 3;
     border: dashed grey 2px;
+    opacity: 88%;
     
   }
 
