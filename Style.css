@@ -1,6 +1,5 @@
 body {
-  /*adding a background image*/
-  
+    
 
 }
 
@@ -110,12 +109,9 @@ cv{
   padding-top: 10px;
   padding-bottom: 10px;
   border: solid purple 2px;
-  overflow: hidden;
   margin-bottom: 10px;
   margin-top: 10px;
   display: flex;
-
-
 }
 
 
@@ -127,15 +123,13 @@ aside {
 
 
 section{
-  /* float: left;  */
-  width: 60%;
   background-color: rgb(33, 33, 33);
   color: rgb(190, 179, 165);
   font-size: 135%;
-  /* display: flex; */
   padding-left: 10px; 
   border: solid green 2px;
   flex: 3;
+
   
 }
 
@@ -206,6 +200,8 @@ div footer toTop img:hover{
 }
 
 @media only screen and (max-width: 1100px) {
+  
+
 
   .allSite {
     margin: auto 0;
@@ -214,7 +210,7 @@ div footer toTop img:hover{
     opacity: 88%;
     background-position: 100%;
     padding: 5px;
-    width: 100% !important;
+    width: 700px !important;
   }
 
   header hgroup {
@@ -270,28 +266,33 @@ div footer toTop img:hover{
   
   }
 
-  .contant{
-    display: flex;
-    width: 100% !important;
-  }
+
 
   aside {
     border: solid green 2px;
     flex: 1;
     order: 2;
+    display: flex;
+    /* overflow: hidden; */
+
+  }
+
+  #profile {
+    width: 320px;
+    height: 400px;
+    position: relative;
+    top: 100px;
   }
   
   
   section{
-    /* float: left;  */
-    width: 60%;
     background-color: rgb(33, 33, 33);
     color: rgb(190, 179, 165);
     font-size: 135%;
-    /* display: flex; */
     padding-left: 10px; 
     border: solid green 2px;
-    flex: 2;
+    flex: 1;
+    border: dashed grey 2px;
     
   }
 
