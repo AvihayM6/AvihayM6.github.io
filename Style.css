@@ -73,16 +73,20 @@ header hgroup h2 {
   border: solid green 2px;
 }
 
-.allSite cv a{
+cv .btn-primary{
   background-color:rgb(219, 78, 43);
   font-weight: bold;
   border-radius: 12px;
   margin: auto 0;
+  border-color: rgb(219, 78, 43);
+
 }
 
-.allSite cv a:hover {
+cv .btn-primary:hover {
   background-color: rgb(172, 57, 29); /* Green */
   color: white;
+  border: solid 3px rgb(172, 57, 29);
+
 }
 
 
@@ -102,7 +106,7 @@ nav{
 cv{
   padding: 10px;
   display: flex;
-  border: solid green 2px;
+  border: solid green 4px;
 
 }
 
