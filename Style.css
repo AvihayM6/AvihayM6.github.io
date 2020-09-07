@@ -52,7 +52,7 @@ header hgroup {
   font-family: 'Open Sans', sans-serif;
   border-radius: 20px;
   border: solid red 2px;
-  height: 920vh;
+  height: 920px;
   opacity: 90%;
   padding:20%;
 }
@@ -89,6 +89,7 @@ cv .btn-primary:hover {
 }
 
 
+
 nav{
   padding: 10px;
   margin-bottom: 10px;
@@ -101,6 +102,8 @@ nav{
 
 
 }
+
+
 
 cv{
   padding: 10px;
@@ -289,7 +292,7 @@ div footer toTop img:hover{
 
   #profile {
     width: 320px;
-    height: 400vh;
+    height: 400px;
     position: relative;
     top: 100px;
   }
