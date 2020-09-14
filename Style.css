@@ -240,10 +240,10 @@ div footer toTop img:hover{
     font-weight: bold; 
     position: relative;
     top: 180px;
+    
   }
 
   header hgroup h2 {
-    border-bottom: solid blue;
     display: inline-block;
     font-size: 25px;
     position: relative;
@@ -260,10 +260,7 @@ div footer toTop img:hover{
 
   
   }
-  nav:hover {
 
-  
-  }
   
   
 
